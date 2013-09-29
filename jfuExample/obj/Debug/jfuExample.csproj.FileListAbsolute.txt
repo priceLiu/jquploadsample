@@ -1,0 +1,5 @@
+E:\github\jfu-CSharp-Example-master\jfuExample\jfuExample\bin\jfuExample.dll
+E:\github\jfu-CSharp-Example-master\jfuExample\jfuExample\bin\jfuExample.pdb
+E:\github\jfu-CSharp-Example-master\jfuExample\jfuExample\obj\Debug\jfuExample.csprojResolveAssemblyReference.cache
+E:\github\jfu-CSharp-Example-master\jfuExample\jfuExample\obj\Debug\jfuExample.dll
+E:\github\jfu-CSharp-Example-master\jfuExample\jfuExample\obj\Debug\jfuExample.pdb
